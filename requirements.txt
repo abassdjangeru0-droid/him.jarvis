@@ -1,0 +1,6 @@
+anthropic
+edge-tts
+pygame
+SpeechRecognition
+pyttsx3
+PyAudio
